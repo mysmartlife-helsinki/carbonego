@@ -4,8 +4,7 @@ Carbon Ego is a mobile application, implemented by mySMARTLife partner Forum Vir
 
 Carbon Ego started as part of the mySMARTLife project and is in line with the project’s aim to curb climate change and develop a sustainable urban structure by introducing smart and clean solutions together with the residents. The application was released in public in April 2021 and utilises widely available open data sources.
 
-
-
+![CarbonEgo Screens](https://github.com/mysmartlife-helsinki/carbonego/blob/master/res/csm_carbon-ego-2_6017b77b66.png)
 
 ![EU Logo](https://github.com/mysmartlife-helsinki/common-images/blob/master/logo-eu.png) | This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 731297.
 ----|------------
